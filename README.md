@@ -1,7 +1,7 @@
 # DRAMA-public
 
-This repository is to enable public comment on the [EEA DeFi Risk Assessment Guidelines](https://entethalliance.org/specs/defi-risks)
-and other work of the [DRAMA Working Group](https://entethalliance.org/groups/DRAMA).
+This repository is to enable public comment on the work of the [DRAMA Working Group](https://entethalliance.org/groups/DRAMA),
+such as the [EEA DeFi Risk Assessment Guidelines](https://entethalliance.org/specs/defi-risks).
 
 Comments should be made by adding a comment to an [open issue](https://github.com/EntEthAlliance/drama-public/issues) if there is a relevant issue already, or by creating a
 [new issue](https://github.com/EntEthAlliance/EthTrust-public/issues/new/choose). If proposals are editorial in nature (i.e. they clarify wording, fix spelling mistakes or obvious logic errors),
